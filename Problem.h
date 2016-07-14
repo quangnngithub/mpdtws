@@ -2,6 +2,7 @@
 #define PROBLEM_H
 
 ///The Problem class. 
+/// Github
 class Problem 
 {
 public: 
